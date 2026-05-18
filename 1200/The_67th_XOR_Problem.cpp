@@ -39,7 +39,7 @@ void solve() {
 
     int mx = LLONG_MIN; 
 
-    // find the single element with whom the xor result is maximum ! we keep it for the end 
+    // find the maximum element achivable from the xor  ! we go bruteforce n2 
     for(int i = 0; i < length; i++) {
         for(int j = 0; j < length; j++) {
             int val = source[ i ] ^ source[ j ];
