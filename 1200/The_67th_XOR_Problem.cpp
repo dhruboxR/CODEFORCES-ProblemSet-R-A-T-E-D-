@@ -49,7 +49,7 @@ void solve() {
     cout << mx << endl; 
 }
 
-// the constarins are low n(2 ≤ n ≤ 3105) -> O( n2 ) = 9e6 [ we can go up to 1e9 !! ] 
+// the constraints are low n(2 ≤ n ≤ 3105) -> O( n2 ) = 9e6 [ we can go up to 1e9 !! ] 
 
 int32_t main() {
     ios_base::sync_with_stdio(false);
