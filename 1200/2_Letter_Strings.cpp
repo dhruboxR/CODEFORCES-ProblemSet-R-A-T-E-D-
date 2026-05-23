@@ -13,6 +13,10 @@ using namespace std;
 #define print_zero (cout << "0" << endl)
 #define negative (cout << "-1" << endl)
 
+//     Iterate through all given strings 
+//     Generate all strings that differ in exactly one position, 
+//     Count the number of times these strings occur in the array.
+
 void solve() {
     int length;     cin >> length; 
     map<string, int> occurance;
