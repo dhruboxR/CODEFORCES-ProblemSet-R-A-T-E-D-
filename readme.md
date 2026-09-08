@@ -1,4 +1,4 @@
-# 🚀 CODEFORCES ProblemSet RATED (1200–1500+)
+# 🚀 CODEFORCES ProblemSet RATED (900–1500)
 
 > A structured collection of Codeforces problem solutions written in **C++**, organized by rating and topic to improve competitive programming skills.
 
@@ -17,20 +17,6 @@ It focuses on improving competitive programming skills using **efficient C++ imp
 
 All solutions are implemented in **C++ for optimal performance and contest readiness**.
 
----
-
-## 📂 Repository Structure
-CODEFORCES-ProblemSet-R-A-T-E-D-
-│
-├── 1200/ # Beginner–Intermediate problems
-├── 1300/ # Greedy + implementation problems
-├── 1400/ # Medium difficulty logic problems
-├── 1500/ # Advanced problem solving
-│
-├── DynamiC_ProgramminG/ # Dynamic Programming problems
-├── Regular_Bracket_Sequence/
-
----
 
 ## ⚡ Topics Covered
 
