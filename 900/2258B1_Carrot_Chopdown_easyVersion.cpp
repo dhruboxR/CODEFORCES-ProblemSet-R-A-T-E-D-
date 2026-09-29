@@ -1,4 +1,4 @@
-https://codeforces.com/contest/2258/problem/B1
+// https://codeforces.com/contest/2258/problem/B1
 
 #include <bits/stdc++.h>
 using namespace std;
