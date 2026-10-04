@@ -51,7 +51,7 @@ void solve() {
         return; 
     }
     
-    // else we need to decreament the score untill it satisfies : swapping elements 
+    // else we need to decrement the score untill it satisfies : swapping elements 
     for(int col = 1; col < n; col++) {
         int row = mat[0][col] - 1; 
         swap(mat[0][col], mat[row][col]);
